@@ -19,6 +19,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 5.	Run (once there is no syntax error) 
 6.	Click OK to see/view the output of your program on the Emulator screen. 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
+<br/>
 8.	 
 
 
@@ -78,7 +79,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-
+<br/><br/>
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
