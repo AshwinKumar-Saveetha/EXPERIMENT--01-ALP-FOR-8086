@@ -94,6 +94,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Output  
 
+## Programs for logic operations
 
 ## Result :
  
