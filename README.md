@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : Ashwin Kumar A
+
 Reg No: 212223040021
+
 Date of experiment : 19.08.2024
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
